@@ -1,1 +1,1 @@
-# swag-shop
+This project creates a web page on which some products are displayed in the cards and the user can make their own wishlist. It is created using React component for front-end, nodejs for the back-end to provide the API and mongoDB for providing the necessary data.
